@@ -1,5 +1,5 @@
 ## Termos de serviço
----
+
 1. **Aceitação dos Termos**: Ao usar o bot Mr. Boby, você concorda automaticamente com estes Termos de Serviço e com a Política de Privacidade.
 2. **Uso Adequado**: É proibido usar várias contas para acumular "Garfos", tentar comprometer o bot ou utilizá-lo para atividades maliciosas.
 3. **Comércio de "Garfos"**: Não é permitida a troca de "Garfos" por dinheiro real ou itens de valor fora do Discord. Também é proibido oferecer "Garfos" como pagamento por serviços ou entrada em servidores.
